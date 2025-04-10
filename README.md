@@ -2,7 +2,7 @@
 
 # Araç Takip Otomasyonu 🚗
 
-Bu proje, C# diliyle geliştirilmiş temel bir araç takip otomasyonudur. Sistem, araçların ve şoför bilgilerinin bir liste yapısı içerisinde tutulduğu, kullanıcıya veri ekleme, silme, güncelleme, görüntüleme gibi temel işlemleri sunan bir yapıya sahiptir.
+Bu proje, C# diliyle geliştirilmiş temel bir araç takip otomasyonudur. Sistem, araçların, görevlerin ve şoför bilgilerinin bir liste yapısı içerisinde tutulduğu, kullanıcıya veri ekleme, silme, güncelleme, araya ekleme, listeleme gibi temel işlemleri sunan bir yapıya sahiptir.
 
 ## Özellikler
 
