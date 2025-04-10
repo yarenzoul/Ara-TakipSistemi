@@ -6,7 +6,7 @@ Bu proje, C# diliyle geliştirilmiş temel bir araç takip otomasyonudur. Sistem
 
 ## Özellikler
 
--  Araç ve şoför bilgisi ekleme  
+-  Araç, görev ve şoför bilgisi ekleme  
 -  Kayıt silme  
 -  Kayıt güncelleme  
 -  Tüm kayıtları listeleme  
